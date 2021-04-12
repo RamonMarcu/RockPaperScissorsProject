@@ -68,16 +68,16 @@ const playGame = () => {
 playGame()
 
 
-// depending on what you choose and example of what console displays if running the code is:
+/* Depending on what you choose and example of what console displays if running the code is:
 
 You threw: paper
 Computer threw: paper
 This game is a tie!
 
-// when you use the secret cheat code 'rocket' console will always display:
+When you use the secret cheat code 'rocket' console will always display:
 
 You threw: rocket
 Computer threw: rock
-Congratulations! You won with the secret cheat code!
+Congratulations! You won with the secret cheat code! */
 
 
