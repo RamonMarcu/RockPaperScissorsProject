@@ -11,7 +11,7 @@ console.log('Error! Please type: rock, paper or scissors.');
  }
 };
 
-const userInput = prompt('Welcome! 👋  What is your choice?  Rock 🧱 , Paper 📄 or Scissors ✂️  ?');
+const userInput = prompt('Welcome! 👋 What is your choice?  rock 🧱 , paper 📄 or scissors ✂️  ?');
 
 const getComputerChoice = () => {
  const randomNumber = Math.floor(Math.random() * 3)
