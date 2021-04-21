@@ -17,6 +17,14 @@ Our code will break the game into four parts:
 (4) Start the program and display the results.
 
 
+(I) If you download the rockPaperScissors.js script and run it in terminal with: node rockPaperScissors.js, the game will run with an established const userChoice = getUserChoice('paper'); which is 'paper' in this case. Hence, you can play it by changing the script, more precisely the const userChoice = getUserChoice('paper'); by changing 'paper' to your preference such as 'rock', 'scissors' or the secret cheat code 'rocket'.
+
+(II) If you download RPS.js and run it in your terminal with: node RPS.js, you'll be able to write your choice in terminal ( I added user input using prompt-sync), therefore, you can choose your variant hence it allows you to actually play the game.
+
+
+
+
+
 Tasks (14/14)
 
 1.The user should be able to choose ‘rock’, ‘paper’, or ‘scissors’ when the game starts. Using const and arrow function syntax, create a function named getUserChoice that takes a single parameter userInput. Having the primary concepts Control flow (conditionals), Switch Statements, If/else statements, the tasks of this project do not include to use prompt-sync. 
