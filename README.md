@@ -133,3 +133,6 @@ Then, to start the game, call the playGame() function on the last line of your p
 
 
 14.Make this game better by adding a secret cheat code. If a user types 'rocket' as their choice, then make sure they win, no matter what.
+
+
+![Screenshot 2023-02-28 at 20 07 09](https://user-images.githubusercontent.com/70721540/221942056-268a8642-2d4e-4cc9-b5bb-3231605916c0.png)
